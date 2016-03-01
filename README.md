@@ -5,11 +5,11 @@ The game is inspired from the android version of the game:-https://play.google.c
 The rules of the game are slightly tweaked, please refer to the [rules section](#H2R).
 
 ## <a name="H2R"></a> 1) How to Run
-  >make
-  >make run
+    >make
+    >make run
   
 ## <a name="H2R"></a> 2)Cleaning game files
-  >make clean
+    >make clean
   
 ## <a name="H2R"></a> 3)Rules
 * There are numbers used instead of colours, numbers 1-8
