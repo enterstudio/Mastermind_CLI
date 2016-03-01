@@ -31,4 +31,13 @@ The software is designed using Objected oriented C++ and the source is available
 
 ## <a name="H2R"></a> 3)Hardware Tested on
 
+The Mastermind CLI game was tested on the below listed hardware successfully.
+
+| Hardware              | Architecture | OS                          | GCC Version      |
+|-----------------------|--------------|-----------------------------|------------------|
+| PC(intel core i7)     | x86_64       | Ubuntu 14.04(64 bit)        | g++ 4.8.4        |
+| PC(intel core i5)     | x86_64       | OSX EL Captian(64 bit)      | Apple LLVM 7.0.2 |
+| Zedboard Zynq 7000    | Arm v7a      | linaro Ubuntu 12.04(32 bit) | g++ 4.8.1        |
+| Raspberry pi model b+ | Arm v6l      | Raspbian Jessie(32 bit)     | g++ 4.9.2        |
+
 
